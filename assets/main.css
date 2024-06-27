@@ -111,7 +111,7 @@ span.material-symbols-outlined {
     height: 100%;
 }
 
-nav {
+.nav {
     position: fixed;
     width: 100%;
     display: flex;
